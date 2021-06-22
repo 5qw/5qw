@@ -3,7 +3,7 @@
   <img align="left" alt="Kycss | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.twitch.tv/kycss">
-  <img align="left" alt="Kycss | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Kycss | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />
 </a>
 <a href="https://www.reddit.com/user/Kycss/">
   <img align="left" alt="Kycss | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
