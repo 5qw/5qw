@@ -53,6 +53,6 @@ Hi, I'm [Abhishek Naidu](https://abhisheknaidu.tech), a Full Stack Developer ğŸš
 <details>
 <summary>ğŸ“ˆ My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=qnwx&show_icons=true&theme=gotham" alt="qnwx" />
 
 </details>
