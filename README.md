@@ -1,19 +1,19 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://twitter.com/kycsswastaken">
-  <img align="left" alt="Kycss | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/redicussed">
+  <img align="left" alt="Xyz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.twitch.tv/kycss">
-  <img align="left" alt="Kycss | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />
+  <img align="left" alt="Xyz | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />
 </a>
 <a href="https://www.reddit.com/user/Kycss/">
-  <img align="left" alt="Kycss | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+  <img align="left" alt="Xyz | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=kycss)
 
 <br />
 
-Hi, I'm [Kycss](https://kycss.tk), a free time Developer 🚀 from Spain.
+Hi, I'm [Xyz](https://e-z.bio/xyz), a free time Developer 🚀 from Spain.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
@@ -22,7 +22,7 @@ Hi, I'm [Kycss](https://kycss.tk), a free time Developer 🚀 from Spain.
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning HTML and C++; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: @Kycss#4085 on discord;
+- 📫 How to reach me: @Xyz#9639 on discord;
 
 **Languages and Tools:**  
 
@@ -35,6 +35,6 @@ Hi, I'm [Kycss](https://kycss.tk), a free time Developer 🚀 from Spain.
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=qnwx&show_icons=true&theme=gotham" alt="qnwx" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=electrocardiogram&show_icons=true&theme=gotham" alt="electrocardiogram" />
 
 </details>
