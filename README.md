@@ -35,6 +35,6 @@ Hi, I'm [Xyz](https://e-z.bio/xyz), a free time Developer 🚀 from Spain.
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=electrocardiogram&show_icons=true&theme=gotham" alt="electrocardiogram" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=5qw&show_icons=true&theme=gotham" alt="5qw" />
 
 </details>
