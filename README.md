@@ -22,7 +22,7 @@ Hi, I'm [Xyz](https://e-z.bio/xyz), a free time Developer 🚀 from Spain.
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning HTML and C++; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: @xyz#0420 on discord or u can find my socials <a href="https://e-z.bio/xyz">clicking here;
+- 📫 How to reach me: @xyz#0420 on discord or u can find my socials <a href="https://e-z.bio/xyz">clicking here</a>;
 
 **Languages and Tools:**  
 
