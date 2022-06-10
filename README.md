@@ -1,12 +1,12 @@
 ### Hey there
 <a href="https://twitter.com/hydratable">
-  <img align="left" alt="Xyz | Twitter" width="22px" src="https://svgur.com/i/iBR.svg" />
+  <img align="left" alt="Xyz | Twitter" width="22px" src="https://svgur.com/i/iDp.svg" />
 </a>
 <a href="https://www.twitch.tv/reemplazado">
-  <img align="left" alt="Xyz | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />
+  <img align="left" alt="Xyz | Twitch" width="22px" src="https://svgur.com/i/iC8.svg" />
 </a>
 <a href="https://www.reddit.com/user/Kycss/">
-  <img align="left" alt="Xyz | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+  <img align="left" alt="Xyz | Reddit" width="22px" src="https://svgur.com/i/iC9.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=kycss)
