@@ -15,7 +15,7 @@
 
 Hi, I'm [Xyz](https://e-z.bio/xyz), a free time Developer 🚀 from Spain.
 
-  <img align="right" alt="GIF" src="https://lanyard-profile-readme.vercel.app/api/728662024606711819?theme=dark&amp;hideTimestamp=false&amp;bg=242430&amp;animated=true&amp;idleMessage=Probably AFK or Sleeping"  draggable="false" />
+  <img align="right" alt="GIF" src="https://lanyard-profile-readme.vercel.app/api/728662024606711819?theme=dark&amp;hideTimestamp=false&amp;bg=242430&amp;animated=true&amp;idleMessage=Probably AFK or Sleeping" draggable="false"/>
   
 **Talking about Personal Stuffs:**
 
