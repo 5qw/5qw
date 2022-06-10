@@ -1,6 +1,6 @@
 ### Hey there
 <a href="https://twitter.com/hydratable">
-  <img align="left" alt="Xyz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Xyz | Twitter" width="22px" src="https://svgur.com/i/iBR.svg" />
 </a>
 <a href="https://www.twitch.tv/reemplazado">
   <img align="left" alt="Xyz | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />
