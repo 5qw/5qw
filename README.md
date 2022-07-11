@@ -12,7 +12,6 @@ Hi, I'm [Xyz](https://e-z.bio/xyz), a free time Developer 🚀 from Spain.
 - 🌱 I’m currently learning HTML and C++; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: </br>
-        - @xyz#0420 on discord </br>
         - Find my socials <a href="https://e-z.bio/xyz">clicking here</a> </br>
         - <a href="mailto:gato@fbi.ac">Email me</a>
 
